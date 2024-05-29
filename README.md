@@ -1,12 +1,7 @@
 # Probabilistic-Graph-Networks
 
 This is the official PyTorch implementation of Probabilistic Graph Networks for Learning Physics Simulations.
-
-If you use any part of this work, please cite this article as: S.K.A. Prakash and C. Tucker, Probabilistic Graph Networks for Learning Physics Simulations, Journal of Computational Physics, 113137, 
-doi: https://doi.org/10.1016/j.jcp.2024.113137.
-
-You can find the online version of the paper here: https://www.sciencedirect.com/science/article/pii/S0021999124003863.
-
+Link to Paper: https://www.sciencedirect.com/science/article/pii/S0021999124003863.
 
 ## Running the Experiments
 1. The models are located in the Models folder.
@@ -18,5 +13,16 @@ You can find the online version of the paper here: https://www.sciencedirect.com
 
 
 ## References
+If you found part of this work helpful, please consider citing this article:
+
+@article{prakash2024physics,
+  title={Probabilistic Graph Networks for Learning Physics Simulations},
+  author={Prakash, S.K.A. and Tucker, C.},
+  journal={Journal of Computational Physics},
+  pages={113137},
+  year={2024},
+  publisher={Elsevier}
+  doi={https://doi.org/10.1016/j.jcp.2024.113137}
+}
 
 We thank the authors of (https://github.com/MilesCranmer/symbolic_deep_learning) for sharing their code as well as their particle-physics datasets. We also thank the authors of (https://github.com/deepmind/deepmind-research/tree/master/meshgraphnets) for sharing the code for Mesh Graph Net and mesh-based dataset (Cylinder Flow).
