@@ -1,8 +1,10 @@
 # Probabilistic-Graph-Networks
 
-This is the official PyTorch implementation of Probabilistic Graph Networks for Learning Physics Simulations. \\
+This is the official PyTorch implementation of Probabilistic Graph Networks for Learning Physics Simulations.
+
 If you use any part of this work, please cite this article as: S.K.A. Prakash and C. Tucker, Probabilistic Graph Networks for Learning Physics Simulations, Journal of Computational Physics, 113137, 
-doi: https://doi.org/10.1016/j.jcp.2024.113137. \\
+doi: https://doi.org/10.1016/j.jcp.2024.113137.
+
 You can find the online version of the paper here: https://www.sciencedirect.com/science/article/pii/S0021999124003863.
 
 
