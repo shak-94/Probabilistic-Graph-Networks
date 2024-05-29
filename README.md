@@ -15,7 +15,7 @@ Link to Paper: https://www.sciencedirect.com/science/article/pii/S00219991240038
 ## References
 If you found part of this work helpful, please consider citing this article:
 
-**S.K.A. Prakash and C. Tucker, Probabilistic Graph Networks for Learning Physics Simulations, Journal of Computational Physics, 113137, doi: https://doi.org/10.1016/j.jcp.2024.113137
+**Prakash, S.K.A., & Tucker, C.** (2024). *Probabilistic Graph Networks for Learning Physics Simulations*. Journal of Computational Physics, 113137. Elsevier. [https://doi.org/10.1016/j.jcp.2024.113137](https://doi.org/10.1016/j.jcp.2024.113137)
 
 
 We thank the authors of (https://github.com/MilesCranmer/symbolic_deep_learning) for sharing their code as well as their particle-physics datasets. We also thank the authors of (https://github.com/deepmind/deepmind-research/tree/master/meshgraphnets) for sharing the code for Mesh Graph Net and mesh-based dataset (Cylinder Flow).
